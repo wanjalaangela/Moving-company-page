@@ -1,0 +1,357 @@
+.contact-ways{
+    display: flex;
+    gap: 28cm;
+}
+.dashboard{
+    display: flex;
+    gap: 3cm;
+   margin-left: 6cm;
+}
+#moving-day{
+width: 100%;
+height: 17cm;
+}
+#email{
+    margin-left: 4cm;
+}
+#home{
+    color: orange;
+}
+.fa-solid{
+    margin-left: cm;
+    top: 3cm;
+}
+#get-started{
+    height: 1.5cm;
+    width: 4.5cm;
+    border-radius: 3px;
+    background-color: orange;
+    color: white;
+    border: none;
+    font-size: large;
+}
+#start{
+    margin-left: 4cm;
+    color: white;
+    top: 10cm;
+    left: 15cm;
+    position: absolute;
+}
+h1{
+    font-size: 70px;
+}
+#about{
+    color: orange;
+}
+#move-in{
+    width: 90%;
+    height: 8cm;
+}
+#household{
+    width: 95%;
+    height: 8cm;
+    margin-left: 2cm;
+}
+.riad-2007{
+    display: flex;
+    margin-top: 2cm;
+    margin-left: 4cm;
+}
+.riaad-since{
+    display: flex;
+    gap: 2cm;
+    margin-top: 1cm;
+    margin-left: 2cm;
+}
+#left{
+    margin-top: 1cm;
+}
+#since{
+    color: orange;
+}
+.ipsum-logo{
+    display: flex;
+    gap: 2cm;
+    margin-top: 2.5cm;
+    margin-left: 3.1cm;
+}
+#first-ipsum{
+    width: 5cm;
+    height: 1.7cm;
+}
+#second-ipsum{
+    width: 5cm;
+    height: 1.7cm;
+}
+#third-ipsum{
+    width: 4cm;
+    height: 0.8cm;  
+    margin-top: 0.5cm; 
+}
+#fourth-ipsum{
+    width: 5cm;
+    height: 2.1cm;  
+}
+#fifth-ipsum{
+    width: 5cm;
+    height: 1.7cm;   
+}
+.services{
+    margin-top: 4cm;
+}
+#our-services{
+    text-align: center;
+}
+#our{
+    color: orange;
+}
+.specific-services{
+    display: flex;
+    margin-left: 4cm;
+    gap: 3cm;
+}
+#hut{
+    width: 3.5cm;
+    height: 3.5cm;
+    border-radius: 180px;
+    margin-left: 1.2cm;
+    margin-top: 0.5cm;
+}
+#box{
+    width: 4cm;
+    height: 4cm;
+    margin-left: 1.2cm; 
+}
+#truck{
+    width: 4cm;
+    height: 4cm; 
+    margin-left: 1.2cm;  
+}
+#shield{
+    width: 4cm;
+    height: 4cm; 
+    margin-left: 1.2cm;  
+} 
+#packing{
+    width: 6cm;
+   
+}
+#storage{
+    width: 6cm;
+    background-color: rgb(28, 28, 248);
+    color: white;
+}
+#transport{
+    width: 6cm;
+    
+}
+#insurance{
+    width: 6cm;
+   
+}
+h4{
+   text-align: center; 
+}
+#phase{
+    text-align: center;
+}
+#phase-sit{
+    text-align: center;
+}
+#read-more{
+    margin-left: 1.5cm;
+    color: orange;
+}
+#read-more-hut{
+    color: white;
+    margin-left: 1.5cm;
+}
+.client-work{
+    margin-top: 2cm;
+    display: flex;
+    gap: 1.5cm;
+    margin-left: 3.4cm;
+}
+h2{
+    font-size: 45px;
+}
+#moving{
+    width: 5cm;
+    height: 3cm;
+}
+#video{
+    margin-left: 4cm;
+    margin-top: 1cm;
+}
+.fa-play{
+    background-color: orange;
+    border-radius: 180px;
+    color: white;
+    width: 1.5cm;
+    height: 1.5cm;
+    text-align: center; 
+}
+.leading-business{
+    margin-top: 3cm;
+    margin-left: 3.4cm;
+    display: flex;
+    
+}
+#ladder{
+    width: 9cm;
+    height: 10cm;
+}
+#left-lead{
+    background-color: rgb(28, 28, 248);
+    width: 10cm;
+    height: 13.5cm;
+}
+#verified{
+    background-color: white;
+    width: 7cm;
+    height: 4cm;
+    position: absolute;
+    margin-left: 0.5cm;
+    margin-top: 1cm;
+}
+#get-started{
+margin-left: 1cm;
+background: none;
+color: orange;
+
+}
+#trust{
+    margin-left: 1cm;
+
+}
+#question{
+    display: flex;
+    gap: 1cm;
+    margin-left: 0.8cm;
+}
+.fa-circle-check{
+    margin-top: 0.5cm;
+     color: #eed111;
+
+}
+#hesitate{
+    margin-top: 15cm;
+}
+#tick{
+    
+}
+#usa{
+    display: flex;
+
+}
+#save{
+    display: flex;
+
+}
+#survey{
+    display: flex;
+
+}
+#right-lead{
+    margin-left: 3cm;
+}
+#book{
+color: orange;
+margin-top: 15cm;
+}
+h5{
+    margin-left: 1cm;
+}
+#soon-to-move{
+    height: 14cm;
+    width: 100%;
+}
+.blue-yellow{
+    display: flex;
+    
+}
+#left-yellow{
+    background-color: orange;
+    width: 40%;
+}
+#right-blue{
+    background-color: blue;
+    width: 60%;
+}
+#book-us-now{
+    margin-left: 7cm;
+    color: white;
+}
+#free-quote{
+    font-size: larger;
+    color: white;
+}
+.customer-details{
+    margin-left: 2cm;
+}
+.testimonials{
+    text-align: center;
+    margin-top: 1.5cm;
+}
+#our-testimony{
+    color: orange;
+}
+#christine-customer{
+    width: 2cm;
+    height: 2cm;
+    border-radius: 50px;
+}
+.individual-testimony{
+display: flex;
+margin-left: 5.5cm;
+gap: 4cm;
+}
+#christine-rose{
+    color: orange;
+}
+.newsletter{
+    text-align: center;
+    margin-top: 2.5cm;
+}
+#signup-news{
+    color: orange;
+}
+#subscribe-button{
+    background-color: orange;
+    color: white;
+    width: 5cm;
+    height: 1cm;
+    border: none;
+    margin-top: 0.2cm;
+}
+#email-subscribe{
+    display: flex;
+    gap: 7cm;
+    margin-left: 15cm;
+}
+.specific-blogs{
+    display: flex;
+    gap: 3.5cm;
+    margin-left: 5.5cm;
+}
+#first-pic{
+    width: 8cm;
+    height: 7cm;
+}
+#second-pic{
+    width: 8cm;
+    height: 7cm;   
+}
+#third-pic{
+    width: 8cm;
+    height: 7cm;
+}
+#blog-articless{
+    text-align: center;
+}
+.news-articles{
+    margin-top: 3cm;
+}
+#blog{
+    color: orange;
+}
