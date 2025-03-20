@@ -71,7 +71,7 @@ h1{
 }
 .ipsum-logo{
     display: flex;
-    gap: 2cm;
+    gap: 3cm;
     margin-top: 2.5cm;
     margin-left: 3.1cm;
 }
@@ -237,9 +237,7 @@ color: orange;
 #hesitate{
     margin-top: 15cm;
 }
-#tick{
-    
-}
+
 #usa{
     display: flex;
 
@@ -273,6 +271,7 @@ h5{
 #left-yellow{
     background-color: orange;
     width: 40%;
+    height: 7cm;
 }
 #right-blue{
     background-color: blue;
@@ -288,6 +287,9 @@ h5{
 }
 .customer-details{
     margin-left: 2cm;
+    display: flex;
+    gap: 2cm;
+    margin-top: 1cm;
 }
 .testimonials{
     text-align: center;
@@ -360,6 +362,7 @@ gap: 4cm;
     background-color: orange;
     color: white;
     height: 5cm;
+    margin-top: 3cm;
 
     
 }
@@ -426,4 +429,10 @@ gap: 4cm;
     margin-top: -5cm;
     position: absolute;
     color: white;
+}
+#send-request{
+    background-color: orange;
+    color: white;
+    height: 1cm;
+    border: none;
 }
