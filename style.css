@@ -183,7 +183,7 @@ h2{
     margin-left: 4cm;
     margin-top: 1cm;
 }
-.fa-play{
+#play-video{
     background-color: orange;
     border-radius: 180px;
     color: white;
@@ -354,4 +354,76 @@ gap: 4cm;
 }
 #blog{
     color: orange;
+}
+#discover-yellow{
+    display: flex;
+    background-color: orange;
+    color: white;
+    height: 5cm;
+
+    
+}
+#discover-more{
+    background-color: black;
+    color: white;
+    width: 5cm;
+    height: 1.5cm;
+    margin-left: 15cm;
+    margin-top: 2cm;
+
+}
+#helping-movers{
+    margin-top: 2cm;
+    margin-left: 5.5cm;
+}
+.black-end{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 10cm;
+    gap: 4cm;
+}
+.last-part ul{
+    list-style-type: none ;
+}
+#phone-addres{
+    margin-left: 10cm;
+}
+#social-media{
+    margin-top: 0.5cm;
+
+}
+.fa-twitter{
+    color: orange;
+    margin-right: 0.5cm;
+}
+.fa-facebook-f{
+    color: white;
+    margin-left: 0.5cm;
+}
+.fa-linkedin-in{
+    color: white;
+    margin-left: 1cm;
+}
+.fa-youtube{
+    margin-left: 1cm;
+}
+#admin-comments{
+    top: 133cm;
+    left: 7.5cm;
+    position: absolute;
+    color: white;
+}
+#first-admin-comments{
+    margin-left: 2cm;
+    margin-top: -5cm;
+    position: absolute;
+    color: white;
+    
+}
+#second-admin-comments{
+    margin-left: 2cm;
+    margin-top: -5cm;
+    position: absolute;
+    color: white;
 }
